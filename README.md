@@ -170,28 +170,7 @@ Whether you're a startup or an enterprise, Sofypie helps transform your ideas in
 
 ---
 
-# 🚀 Getting Started
 
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-## Open Project
-
-```bash
-cd your-repository-name
-```
-
-## Start Development
-
-```bash
-npm install
-npm run dev
-```
-
----
 
 # 🌟 Our Vision
 
@@ -209,7 +188,7 @@ npm run dev
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Email-info%40sofypie.com-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Email-support%40sofypie.com-red?style=flat-square" />
 <img src="https://img.shields.io/badge/Location-India-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Support-Available-blue?style=flat-square" />
 
